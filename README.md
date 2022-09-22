@@ -50,8 +50,3 @@ Fique a vontade para vasculhar meus repositórios e, se quiser, entrar em contat
 </p>
 
 <br><br>
-
-<div align="center">
-  <h2>Profile Views:</h2>
-  ![Profile-Views](https://komarev.com/ghpvc/?username=Viniddev)
-</div>
