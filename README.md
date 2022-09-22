@@ -48,3 +48,10 @@ Fique a vontade para vasculhar meus repositórios e, se quiser, entrar em contat
  <img src="https://activity-graph.herokuapp.com/graph?username=viniddev&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
 </p>
+
+<br><br>
+
+<div align="center">
+  <h2>Profile Views:</h2>
+  ![Profile-Views](https://komarev.com/ghpvc/?username=Viniddev)
+</div>
