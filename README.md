@@ -1,4 +1,4 @@
-### Hi There!!
+### Hi There!
 
 <div>
   <a href="https://instagram.com/viniciusdiasr_?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -16,9 +16,7 @@ Fique a vontade para vasculhar meus repositórios e, se quiser, entrar em contat
 
 <br>
 <div align="center">
-  <a href="https://github.com/viniddev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniddev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniddev&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <a href="https://github.com/viniddev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=viniddev&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="viniddev stats" height="180px"/></a>  <a href="https://github.com/viniddev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniddev&layout=compact&theme=nightowl&hide_border=true" height="180px" /></a>
 </div>
 
 <br>
