@@ -16,7 +16,7 @@ Fique a vontade para vasculhar meus repositórios e, se quiser, entrar em contat
 
 <br>
 <div align="center">
-  <a href="https://github.com/viniddev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=viniddev&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="viniddev stats" height="180px"/></a>  <a href="https://github.com/viniddev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniddev&layout=compact&theme=nightowl&hide_border=true" height="180px" /></a>
+  <a href="https://github.com/viniddev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=viniddev&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="viniddev stats" height="180px" width="400px"/></a>  <a href="https://github.com/viniddev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniddev&layout=compact&theme=nightowl&hide_border=true" height="180px" width="400px"/></a>
 </div>
 
 <br>
