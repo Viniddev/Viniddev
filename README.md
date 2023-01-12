@@ -13,12 +13,6 @@ Obrigado por visitar meu perfil!
 Possuo formação como Técnico em Informática pela Escola Politécnica de Minas Gerais (POLIMIG) e, no momento, estou cursando Ciência da Computação na faculdade FUMEC. 
 
 Fique a vontade para vasculhar meus repositórios e, se quiser, entrar em contato!
-
-<br>
-<div align="center">
-  <a href="https://github.com/viniddev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=viniddev&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="viniddev stats" height="180px" width="400px"/></a>  <a href="https://github.com/viniddev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniddev&layout=compact&theme=nightowl&hide_border=true" height="180px" width="400px"/></a>
-</div>
-
 <br>
 <h2 align="center">Algumas Linguagens e Softwares que domino:</h2>
 
@@ -33,18 +27,4 @@ Fique a vontade para vasculhar meus repositórios e, se quiser, entrar em contat
   <img alt="Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
-
-<br><br>
-
-
-<h2 align="center">Ultimas Atividades</h2>
-<p align="center">
-<a href="https://github.com/viniddev/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://activity-graph.herokuapp.com/graph?username=viniddev&theme=react-dark&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
-<a href="https://github.com/viniddev/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://activity-graph.herokuapp.com/graph?username=viniddev&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-</a>
-</p>
-
 <br><br>
