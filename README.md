@@ -7,6 +7,13 @@
 </div>
 <br>
 
+<div align="center">
+  <a href="https://github.com/Viniddev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaelNCP&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelNCP&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+<br>
+
 
 Obrigado por visitar meu perfil!
 
@@ -25,6 +32,5 @@ Fique a vontade para vasculhar meus repositórios e, se quiser, entrar em contat
   <img alt="VisualStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 <br><br>
