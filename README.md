@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/Viniddev"><img width="80%" alt="Hello, I'm Vinicius. I am learning" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="[https://github.com/Viniddev](https://anuraghazra.github.io)"><img width="80%" alt="Hello, I'm Vinicius." src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 <div align="center">
