@@ -9,9 +9,8 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/Viniddev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viniddev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniddev&layout=compact&langs_count=7&theme=midnight-purple"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
+    </a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
 </div>
 <br>
 
