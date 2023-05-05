@@ -1,4 +1,4 @@
-<div align="center"> #Olá, me chamo Vinícius! </div>
+<div align="center" font-size= "30px" > #Olá, me chamo Vinícius! </div>
 
 <br />
 <div align="center">
