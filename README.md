@@ -1,4 +1,4 @@
-<p align="center"> #Olá, me chamo Vinícius!</p>
+<div align="center"> Olá, me chamo Vinícius! </div>
 
 <br />
 <div align="center">
