@@ -1,5 +1,6 @@
-# Hi There!
+<p align="center"><a href="https://github.com/Viniddev"><img width="80%" alt="Hello, I'm Vinicius. I am learning" src="./assets/gh-readme-header.png" /></a></p>
 
+<br />
 <div align="center">
   <a href="https://instagram.com/viniddev_?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "diasvinicius95@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
