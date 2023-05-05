@@ -8,10 +8,9 @@
 </div>
 <br>
 
-<div align="center">
-    <a href="https://github.com/viniddev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=viniddev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="vinicius github stats" />
-    </a> | <a href="https://github.com/viniddev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniddev&layout=compact&theme=tokyonight&hide_border=true" /></a>
-</div>
+<a href="https://github.com/viniddev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniddev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniddev&layout=compact&langs_count=7&theme=midnight-purple"/>
 <br>
 
 
