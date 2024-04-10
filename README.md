@@ -6,6 +6,7 @@
   <a href = "diasvinicius95@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-dias-rodrigues-107602231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
 <br>
 <div align="center">
   <a href="https://github.com/viniddev">
@@ -17,23 +18,37 @@
 
 Obrigado por visitar meu perfil!
 
-Possuo formação como Técnico em Informática pela Escola Politécnica de Minas Gerais (POLIMIG) e, no momento, estou cursando Ciência da Computação na Universidade
-  FUMEC. 
+Possuo formação como Técnico em Informática pela Escola Politécnica de Minas Gerais (POLIMIG) e, no momento, estou cursando Ciência da Computação na Universidade FUMEC. 
+  
+```python
+class AbhigyanTrips():
+    
+  def __init__(self):
+    self.name = "Vinícius Dias";
+    self.location = "Minas Gerais, Brasil";
+  
+  def __str__(self):
+    return self.name
 
-Fique a vontade para vasculhar meus repositórios e, se quiser, entrar em contato!
+if __name__ == '__main__':
+    me = AbhigyanTrips()
+```
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
+</p>
+
 <br>
 <h2 align="center">Algumas Linguagens e Softwares que domino:</h2>
 
 <div align="center">
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="Javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="Html" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="Css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-line.svg" />
   <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img alt="VisualStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
 </div>
 <br><br>
