@@ -21,9 +21,20 @@ Obrigado por visitar meu perfil!
 Possuo formação como Técnico em Informática pela Escola Politécnica de Minas Gerais (POLIMIG) e, no momento, estou cursando Ciência da Computação na Universidade FUMEC. 
   
 ```csharp
-public class Vinicius Dias
+public class ThisProfile
 {
-  private string FirstName {get;set} 
+  private string FirstName {get;set;}
+  private string LastName {get;set;}
+  private string Location {get;set;} 
+  private int Age {get;set;}
+
+  public ViniciusDias ()
+  {
+    this.FirstName = "Vinícius";
+    this.LastName = "Rodrigues";
+    this.Location = "Minas Gerais, Brasil";
+    this.Age = 21;
+  }
 }
 
 ```
