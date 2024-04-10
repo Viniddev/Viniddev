@@ -21,14 +21,14 @@ Obrigado por visitar meu perfil!
 Possuo formação como Técnico em Informática pela Escola Politécnica de Minas Gerais (POLIMIG) e, no momento, estou cursando Ciência da Computação na Universidade FUMEC. 
   
 ```csharp
-public class ThisProfile
+public class GithubUser
 {
   private string FirstName {get;set;}
   private string LastName {get;set;}
   private string Location {get;set;} 
   private int Age {get;set;}
 
-  public ViniciusDias ()
+  public GithubUser ()
   {
     this.FirstName = "Vinícius";
     this.LastName = "Rodrigues";
