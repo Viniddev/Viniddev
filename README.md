@@ -20,18 +20,12 @@ Obrigado por visitar meu perfil!
 
 Possuo formação como Técnico em Informática pela Escola Politécnica de Minas Gerais (POLIMIG) e, no momento, estou cursando Ciência da Computação na Universidade FUMEC. 
   
-```python
-class AbhigyanTrips():
-    
-  def __init__(self):
-    self.name = "Vinícius Dias";
-    self.location = "Minas Gerais, Brasil";
-  
-  def __str__(self):
-    return self.name
+```csharp
+public class Vinicius Dias
+{
+  private string FirstName {get;set} 
+}
 
-if __name__ == '__main__':
-    me = AbhigyanTrips()
 ```
 
 <br>
