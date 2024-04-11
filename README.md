@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/viniddev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniddev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniddev&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniddev&layout=compact&langs_count=12&size_weight=0&count_weight=1&theme=midnight-purple"/>
 </div>
 <br>
 
@@ -51,6 +51,5 @@ public class GithubUser
   <img alt="VisualStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
 </div>
 <br><br>
