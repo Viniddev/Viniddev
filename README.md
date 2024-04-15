@@ -22,10 +22,10 @@ Possuo formação como Técnico em Informática pela Escola Politécnica de Mina
   
 ```csharp
 public class GithubUser
-{
-  private string FirstName {get;set;}
-  private string LastName {get;set;}
-  private string Location {get;set;} 
+{  
+  private string FirstName {get; set;}
+  private string LastName {get; set;}
+  private string Location {get; set;} 
   private int Age {get;set;}
 
   public GithubUser ()
