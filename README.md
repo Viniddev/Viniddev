@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/viniddev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniddev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniddev&layout=compact&langs_count=12&size_weight=0&count_weight=1&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniddev&layout=compact&langs_count=12&size_weight=0&count_weight=1&theme=midnight-purple&hide=html, css, shell, scss"/> 
 </div>
 <br>
 
