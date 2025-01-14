@@ -23,10 +23,10 @@ Possuo formação como Técnico em Informática pela Escola Politécnica de Mina
 ```csharp
 public class GithubUser
 {  
-  private string FirstName {get; set;}
-  private string LastName {get; set;}
-  private string Location {get; set;} 
-  private int Age {get;set;}
+  private string FirstName { get; set; }
+  private string LastName { get; set; }
+  private string Location { get; set; } 
+  private int Age { get; set; }
 
   public GithubUser ()
   {
@@ -43,15 +43,15 @@ public class GithubUser
 <h2 align="center">Algumas Linguagens e Softwares que domino:</h2>
 
 <div align="center">
-  <img alt="Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-line.svg" />
-  <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="c#" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-line.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg" />
   <img alt="VisualStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img alt="Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 <br><br>
