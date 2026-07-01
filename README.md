@@ -26,7 +26,8 @@ public class GithubUser(
     string firstName = "Vinícius",
     string lastName = "Rodrigues",
     string location = "Minas Gerais, Brasil",
-    int age = 23)
+    int age = 23
+)
 {
     private string FirstName { get; set; } = firstName;
     private string LastName { get; set; } = lastName;
